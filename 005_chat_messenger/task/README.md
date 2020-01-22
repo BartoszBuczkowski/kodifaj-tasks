@@ -35,6 +35,10 @@
     3. W widoku chatu:
 
         - za pomocą pola tekstowego w oknie czatu można wysyłać wiadomości które pojawiają się w oknie czatu,
+        
+        - **w wersji podstawowej** jeżeli wybrałeś użytkownika z szarym avatarem - na chatcie Twoje chmurki powinny być szare, a Twojego rozmówcy niebieskie.
+
+        - **w wersji zaawansowanej** Twoje dymki zawsze będą niebieskie, niezależnie od tego które konto wybrałeś (niebieskie, czy szare),
 
         - całą historia rozmowy zostaje zapisana w localStorage,
         
